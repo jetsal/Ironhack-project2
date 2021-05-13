@@ -1,0 +1,27 @@
+,Place,Firstname,Lastname,Gender,Solo or Duo,StartDate,Status,StartTiming,Timing1,Timing2,Timing3,Timing4,Timing5,Timing6,Timing7,Timing8,Timing9,TimingFinish
+0,1,Joris,Cosyn,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 13:38,Wed 1:17,Wed 5:22,Wed 10:22,Wed 16:02,Thu 6:28,Thu 11:36,Fri 5:54,Fri 19:20,Sat 14:24
+1,2,Tjerk,Bakker,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:35,Wed 9:15,Wed 13:17,,Thu 7:01,Thu 14:34,Thu 19:30,Fri 16:03,Sat 8:59,Sat 18:48
+2,3,Colin,James,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:08,Wed 8:32,Wed 11:53,Wed 16:51,Thu 4:11,Thu 12:32,Thu 17:34,Fri 12:10,Sat 7:54,Sat 19:22
+3,4,Jason,Schreurs,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 13:27,Wed 10:08,Wed 12:52,Wed 17:36,Thu 8:16,Thu 14:51,Thu 19:30,Fri 16:35,Sat 11:05,Sat 21:30
+4,5,Erik,Wallinga,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:25,Wed 4:13,Wed 7:50,Wed 13:42,Wed 20:00,Thu 14:13,Thu 18:40,Fri 20:22,Sat 9:53,Sat 22:39
+5,6,Ralph,Cullen,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:04,Wed 6:54,,Wed 15:08,Wed 21:02,Thu 8:01,Thu 21:44,Fri 15:58,Sat 12:03,Sun 6:34
+6,7,Adam,Verhaar,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:05,Wed 11:40,Wed 14:23,Wed 20:05,Thu 11:25,Thu 18:19,Fri 8:58,Sat 9:27,Sat 20:47,Sun 16:23
+7,8,James,Holmes,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:34,Wed 12:39,Wed 16:10,Wed 21:40,Thu 12:40,Thu 21:58,Fri 11:19,Sat 12:51,Sun 7:42,Sun 21:03
+8,9,Jamie,Robison,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 15:15,Wed 17:50,Wed 21:43,Thu 9:12,Thu 16:17,Fri 11:34,Fri 17:16,Sat 18:05,Sun 16:47,Mon 12:13
+9,10,Onno,Zuidema,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:38,Wed 18:11,Thu 8:27,Thu 13:50,Fri 8:03,Fri 15:58,Fri 20:36,Sun 7:48,Sun 19:18,Mon 16:47
+10,11,Dean,Strike,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 16:19,Wed 16:32,Wed 21:48,Thu 14:20,Thu 20:35,Fri 14:53,Fri 21:31,,Sun 22:40,Mon 19:45
+11,12,Rutger,van Valderen,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 16:00,Wed 16:57,Thu 7:48,Thu 13:43,Fri 7:19,Fri 15:41,Sat 7:40,Sun 9:06,Mon 6:29,Mon 20:24
+12,13,Erik,Venneman,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:19,Wed 12:15,Wed 16:11,Thu 8:17,Thu 15:27,Fri 11:54,Fri 19:07,Sun 7:53,Mon 8:01,Mon 23:57
+13,14,Marc,Wismans,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 15:40,Wed 19:19,Thu 12:01,Thu 19:10,Fri 12:09,Fri 21:39,Sat 12:09,Sun 17:08,Mon 15:02,Tue 16:55
+14,15,William Luke,Windsor,male,Solo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 16:25,Thu 8:27,Thu 12:46,Thu 17:57,,Fri 18:57,Sat 9:19,Sun 12:36,Mon 12:58,
+15,,Thijs,DSQ Verbrugghe,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 13:22,Tue 23:24,Wed 4:29,Wed 8:53,Wed 14:03,Thu 0:42,Thu 6:06,Thu 19:51,Fri 10:23,
+16,,Julia,Freeman,female,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 17:56,,,,,,,,Fri 10:49,
+17,,Eelco,Weijmans,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 16:07,Wed 12:50,Wed 17:59,Thu 11:31,Thu 18:30,Fri 11:04,Fri 17:08,,,
+18,,Eric,Kampherbeek,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 15:31,,Wed 12:54,Wed 17:52,Thu 6:47,Thu 14:10,,,,
+19,,Olaf,Rittgeroth,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 15:26,Wed 10:42,Wed 15:04,Wed 22:13,Thu 8:05,Thu 18:23,,,,
+20,,Lamri,Adjis,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 15:08,,,,,,,,,
+21,,Mathias,Reygaerts,male,Solo,2018-05-01 08:00:00,DNF,Tue 8:00,Sun 11:36,,,,,,,,,
+22,,Christopher,Greenan,male,Solo,2018-05-01 08:00:00,DNS,,,,,,,,,,,
+23,1,,Raboen - Raboen,male,Duo,2018-05-01 08:00:00,Finisher,Tue 8:00,Tue 14:05,Wed 8:43,Wed 13:12,Wed 20:36,Thu 7:45,Thu 19:34,Fri 11:23,Sat 11:27,Sun 8:53,Mon 0:44
+24,,,Kim - Kim,mixed,Duo,2018-05-01 08:00:00,DNF,Tue 8:00,Wed 14:02,,,,,,,,,Thu 17:36
+25,,,Lagerwerf - Meerwijk,male,Duo,2018-05-01 08:00:00,DNF,Tue 8:00,Tue 16:08,Wed 13:52,Wed 17:30,Thu 10:58,Thu 17:22,Fri 15:19,,,,Sat 12:45

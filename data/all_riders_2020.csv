@@ -1,0 +1,103 @@
+,Place,Firstname,Lastname,Gender,Solo or Duo,StartDate,Status,StartTiming,Timing1,Timing2,Timing3,Timing4,Timing5,Timing6,Timing7,Timing8,Timing9,TimingFinish
+0,1,Laurens,Boex,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 8:56,Sun 12:07,Sun 20:44,Mon 10:22,Mon 22:20,Tue 1:59,,Wed 11:24,Wed 23:09
+1,2,Laurens,Wolting,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:33,Sun 5:26,Sun 14:47,Mon 8:04,Mon 15:53,Tue 11:29,Tue 16:13,Wed 15:58,Thu 7:35,Thu 21:24
+2,3,Markus,Weber,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:30,Sun 8:27,Sun 11:46,Sun 20:25,Mon 15:12,Tue 13:18,Tue 17:17,Wed 16:33,Thu 11:30,Thu 22:27
+3,4,Klaus,Svendsen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:25,Sun 12:42,Sun 16:11,Mon 12:57,Tue 8:04,Wed 9:30,Wed 14:19,Thu 17:14,Fri 13:30,Sat 4:58
+4,5,Jeroen,van der Wiel,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:55,Sun 12:49,Sun 16:18,Mon 11:34,Tue 7:29,Tue 19:47,Wed 9:14,Thu 8:51,Thu 18:58,Fri 10:56
+5,6,Flip,Patijn,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:15,Sun 0:16,Sun 6:25,Sun 14:23,Sun 21:02,Mon 11:40,Mon 15:59,Tue 13:05,Tue 21:34,Wed 11:01
+6,7,Francien,Peterse,female,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:01,Sun 14:45,Sun 18:14,Mon 13:30,Tue 8:38,Wed 7:53,Wed 12:14,Thu 13:58,Fri 9:34,Fri 22:52
+7,8,Rainer,Dobrinkat,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 8:25,Sun 15:34,Mon 12:10,Mon 21:59,Tue 18:15,Wed 0:15,Thu 2:30,Thu 17:57,Fri 21:12
+8,9,Emmanuel,Kempeneers,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:58,Sun 10:24,Sun 14:03,Mon 0:31,Mon 14:29,Tue 12:15,Tue 16:45,Wed 19:40,Thu 13:27,Fri 2:35
+9,10,Eddie,Kouiss,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:38,Sun 7:54,Sun 11:34,Sun 20:02,Mon 12:30,Tue 5:57,Tue 11:06,Wed 1:18,Wed 14:56,Thu 1:24
+10,11,Theo,Wolfs,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:06,Sun 16:31,Sun 20:10,Mon 16:37,Tue 12:43,Wed 12:39,Wed 16:38,Thu 19:04,Fri 16:50,Sat 17:16
+11,12,Egbert,Darwinkel,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:10,Sun 12:47,Sun 17:26,Mon 11:33,Mon 19:01,Tue 17:17,Wed 7:15,Thu 8:51,Thu 18:59,Fri 10:56
+12,13,Ruerd,Kuipers,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 17:05,Mon 7:39,Mon 17:09,Tue 13:45,Wed 16:11,Thu 10:08,Fri 15:52,Sat 13:09,Sun 14:44
+13,14,Patrick,Bruns,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:06,Sun 15:21,Sun 19:11,Mon 13:34,Tue 8:51,Tue 21:29,Wed 11:26,Thu 12:03,Fri 6:39,Fri 19:57
+14,15,Bob,Mesman,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:28,Sun 11:34,Sun 15:43,Mon 13:59,Tue 9:16,Wed 8:52,Wed 12:51,Thu 13:47,Fri 13:17,Sat 15:59
+15,16,Meindert,Commelin,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:50,Sun 6:51,Sun 9:43,Sun 17:32,Mon 7:20,,Tue 5:45,Tue 19:33,Wed 8:11,Wed 19:29
+16,17,Bernd,Paul,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sat 23:39,Sun 2:49,Sun 10:07,Sun 17:16,Mon 7:33,Mon 11:43,Tue 6:40,Tue 15:48,Wed 3:25
+17,18,Daan,Marsmans,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 12:34,Sat 21:42,Sun 0:21,Sun 10:59,Sun 16:49,Mon 7:27,Mon 10:35,Mon 21:45,Tue 5:52,Tue 17:30
+18,19,Johnny,Uitterhoeve,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:52,Sun 10:38,Sun 13:57,Mon 7:57,Mon 15:23,Tue 12:50,Tue 17:21,,Thu 9:14,Thu 21:02
+19,20,Marian,Bobko,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 18:30,Sun 23:45,Mon 12:04,Tue 2:01,Tue 19:47,Wed 21:03,Thu 4:52,Fri 15:25,Sat 11:32,Sun 13:36
+20,21,Jamie,Robison,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:33,Sun 12:20,Sun 17:18,Mon 13:04,Mon 22:40,Tue 17:27,Wed 10:44,Thu 8:10,Thu 19:29,Fri 11:56
+21,22,Ties,Alfrink,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:59,Sun 12:28,Sun 15:57,Mon 7:04,Mon 16:43,Tue 14:49,Tue 18:28,Wed 16:24,Thu 12:21,Fri 11:35
+22,23,Wouter,van Engelen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:10,Sun 7:57,Sun 10:56,Sun 18:55,Mon 8:22,Mon 21:10,Tue 8:17,Tue 21:56,Wed 14:53,Thu 3:01
+23,24,Stefan,Kanne,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:57,Sun 9:53,Sun 12:52,Sun 21:40,Mon 13:47,Tue 9:34,Tue 13:13,Wed 11:09,Wed 19:18,Thu 14:24
+24,25,Ralph,Cullen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:03,Sun 5:31,,Sun 17:08,Mon 7:05,Mon 19:43,Tue 3:02,Wed 3:07,Wed 12:35,Thu 3:04
+25,26,Bart,Verheijen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 0:41,Sun 5:51,Sun 13:09,Sun 19:53,Mon 12:55,Mon 17:04,Tue 11:11,Tue 20:19,Wed 11:23
+26,27,Meint,Verhoeff,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:39,Sun 9:16,Sun 13:15,Sun 22:54,Mon 16:10,Tue 15:16,Tue 20:26,Wed 22:01,Thu 18:38,Fri 20:53
+27,28,Paul,Ziermann,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:13,Sun 6:52,Sun 10:40,Sun 18:28,Mon 8:56,Mon 20:54,Tue 1:43,Wed 8:00,Wed 16:46,Thu 4:24
+28,29,Berry,van den Brink,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:06,Sun 15:32,Sun 19:41,Mon 15:27,Tue 6:24,Wed 9:00,Wed 14:03,Thu 16:48,Fri 11:25,Sat 0:23
+29,30,Lukas,Eger,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:06,Sun 6:52,Sun 11:01,Sun 20:20,Mon 10:27,Tue 6:44,Tue 11:43,,Wed 14:58,Thu 7:35
+30,31,Kristian,Madsen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:15,Sun 8:22,Sun 11:31,Sun 20:10,Mon 12:27,Tue 1:25,Tue 11:23,Wed 1:10,Wed 15:28,Thu 3:06
+31,32,Kurt,Billiouw,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:20,Sun 13:26,Sun 19:45,Mon 14:22,Tue 7:29,Wed 7:35,Wed 12:04,Thu 12:00,Fri 9:36,Sat 0:23
+32,33,Johan,Barelds,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:24,Sun 15:37,Mon 6:25,Mon 15:03,Tue 10:39,Wed 10:59,Wed 15:28,Thu 17:13,Fri 15:49,Sat 17:16
+33,34,Emiel,Maelfait,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:07,Sun 1:40,Sun 11:04,Sun 19:32,Mon 13:47,Tue 11:04,Tue 14:44,Wed 13:50,Thu 8:17,Thu 17:35
+34,35,Richard,de Boer,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:43,Sun 9:40,Sun 12:48,Sun 22:06,,Tue 11:00,Tue 15:29,Wed 14:15,Thu 0:23,Thu 18:50
+35,36,Ernst,Huijboom,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 13:21,Sun 17:51,Mon 12:37,Mon 21:46,Tue 22:11,Wed 11:19,Thu 13:25,,Sat 11:18
+36,37,Eelke,Bakker,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:32,Sun 8:00,Sun 11:10,Sun 19:57,Mon 10:54,Tue 6:51,Tue 10:30,Wed 7:47,Wed 15:55,Thu 3:33
+37,38,Florine,Koning,female,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:09,Sun 17:07,Sun 21:06,Mon 17:22,Tue 14:29,Wed 15:14,Thu 8:01,Fri 13:06,Sat 11:07,Sun 13:28
+38,39,Thorsten,Heilen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:36,Sun 6:22,Sun 10:12,Sun 19:30,Mon 8:28,Mon 21:16,Tue 2:15,Tue 21:41,Wed 11:59,Wed 23:49
+39,40,Martijn,Driedonks,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:19,Sun 7:16,Sun 10:55,Sun 18:54,Mon 9:31,Mon 20:10,Tue 5:38,Tue 17:37,Wed 7:33,Wed 18:16
+40,41,Paul,Herron,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:36,Sun 1:53,Sun 5:13,Sun 13:01,Sun 21:00,Mon 16:16,Mon 20:56,,Wed 22:07,Thu 12:25
+41,42,Bas,Vlaskamp,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 12:58,Sat 21:57,Sun 0:26,Sun 8:34,Sun 16:13,Mon 11:20,Mon 14:29,Tue 3:17,Tue 14:06,Wed 10:58
+42,43,Carlo,van Duren,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 14:36,Sun 12:32,Sun 16:32,Mon 9:59,Mon 19:07,Tue 17:13,Tue 22:02,Thu 9:36,Thu 23:14,Fri 17:21
+43,44,Lukas,Tischer,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:21,Sun 9:18,Sun 12:37,Sun 22:16,Mon 13:23,Tue 1:51,Tue 9:29,Wed 12:57,Wed 23:41,Thu 16:54
+44,45,Marianne,Thissen-Smits,female,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 9:23,Sun 13:11,Sun 23:39,Mon 13:57,Tue 11:23,Tue 16:12,Wed 15:09,Thu 7:15,Thu 19:43
+45,46,Haico,Bianchi,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 10:33,Sun 14:03,Mon 8:10,Mon 15:54,,Tue 16:02,Wed 17:17,Thu 15:03,Fri 13:19
+46,47,Jasmijn,Muller,female,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 0:46,Sun 4:45,Sun 13:43,Sun 22:32,Mon 16:49,Mon 22:08,Tue 17:25,Wed 9:52,Wed 23:01
+47,48,Vincent,de Groot,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:49,Sun 16:25,Mon 8:14,Mon 17:30,Tue 12:37,Wed 12:13,Wed 17:12,Thu 18:49,Fri 15:14,Sat 2:42
+48,49,Hans,Kroodsma,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 9:59,,Sun 21:39,Mon 13:45,Tue 11:13,Tue 15:41,Wed 14:37,Thu 7:45,Thu 19:54
+49,50,Ivan,Soenario,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 8:09,Sun 11:09,Sun 20:27,Mon 10:55,Tue 5:22,Tue 9:51,,Wed 16:46,Thu 11:22
+50,51,Jair,Hoogland,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 12:51,Sat 23:29,Sun 2:28,Sun 14:07,Sun 20:46,Mon 13:32,Mon 17:12,Tue 10:29,Tue 18:27,Wed 4:57
+51,52,Yaish,Koelewijn,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 13:33,Sun 17:38,Mon 14:58,Tue 10:00,Wed 1:12,Wed 14:29,Thu 23:44,Fri 20:30,Sat 20:30
+52,53,Arjan,Zwanenburg,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 15:12,Sun 13:18,Sun 17:27,Mon 13:04,Mon 23:22,Tue 19:39,Wed 8:36,Thu 8:42,Thu 20:30,Fri 13:28
+53,54,Denny,Baert,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 11:59,Sun 15:39,Mon 11:15,Mon 20:24,Tue 20:08,Wed 11:57,Thu 15:33,Fri 13:48,Sat 3:36
+54,55,Stefan,Slegl,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 8:20,Sun 11:29,Sun 20:37,Mon 16:23,Tue 5:21,Tue 12:05,Wed 12:18,Thu 9:42,Thu 20:40
+55,56,Rieks,van Lubek,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 13:42,Sun 17:42,Mon 12:58,Tue 10:04,Wed 11:39,Wed 15:59,Thu 21:04,Fri 16:50,Sat 16:57
+56,57,Alexander,Schmitz,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:13,,Sun 6:59,Sun 14:48,Sun 22:46,Mon 14:24,,Tue 12:50,Wed 3:47,Wed 16:25
+57,58,Billy,Bob,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:41,Sun 1:39,Sun 8:37,Sun 16:07,Sun 22:15,Mon 15:13,Mon 18:52,Tue 14:58,,Wed 17:20
+58,59,Paul,Hesen,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:25,Sun 6:32,Sun 9:42,Sun 18:20,Mon 11:27,Mon 23:45,Tue 8:58,Wed 11:45,Wed 20:54,Thu 15:07
+59,60,Oliver,Wong,male,Solo,2020-08-29 08:00:00,Finisher,Sat 8:00,,Sun 12:39,Sun 15:58,Mon 8:36,Mon 17:54,Tue 17:20,Tue 21:59,Thu 9:33,Thu 23:21,Fri 17:27
+60,,Freddy,Hoogheem,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 15:08,,,,,,,,,Sun 15:01
+61,,Lindsay,Mccrae,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,,Sat 23:51,Sun 2:50,Sun 9:59,Sun 18:37,Mon 11:05,Mon 15:24,Tue 11:39,,Tue 17:59
+62,,Paul,Berkhout,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 14:32,Sun 14:54,Sun 20:53,Mon 20:09,Tue 18:49,Wed 21:05,Thu 8:53,,,Thu 16:12
+63,,Eline,van Straalen,female,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 15:37,Sun 13:32,Sun 18:11,Mon 15:47,,,,,,Thu 14:28
+64,,Berten,De Meyer,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,,Sun 0:12,,Sun 14:18,Sun 20:37,Mon 15:23,Mon 19:39,,,
+65,,Arjan,Kraaijeveld,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,,Sun 9:34,Sun 13:24,Sun 22:52,Mon 14:09,,,,,
+66,,Marlow,Drevel,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 14:26,Sun 7:33,Sun 20:12,Mon 7:29,Mon 20:46,,,,,
+67,,Bernd,Rosing,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 13:17,Sun 0:57,Sun 9:46,Sun 17:32,Mon 9:59,,,,,
+68,,Bram,Jordens,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 14:40,Sun 12:36,Sun 16:36,Mon 13:32,Tue 15:08,,,,,
+69,,Dimi,Diels,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 13:50,Sun 13:21,Sun 17:14,Mon 12:30,,,,,,
+70,,Christoph,Kamps,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 15:16,Sun 8:24,Sun 15:32,Mon 14:44,,,,,,
+71,,Martin,Dressel,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 14:41,Sun 18:06,Sun 22:06,,,,,,,
+72,,Dieter,Schietse,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 13:02,Sun 0:40,Sun 3:40,,,,,,,
+73,,Julio,Greff de Oliveira,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 13:21,Sun 12:01,Sun 15:17,,,,,,,
+74,,Simon,Daubert,male,Solo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 15:08,Mon 9:25,,,,,,,,
+75,,Suvi,Tohola,female,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+76,,Scott,Coonce,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+77,,Bart,Vrancken,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+78,,Karel,Poets,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+79,,Robin,Hogger,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+80,,Tom,Smets,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+81,,Florent,Mabon,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+82,,Bjorn,Iffert,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+83,,Kevin,King,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+84,,Colin,Fury,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+85,,Davide,Zuin,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+86,,Joachim,Ottow,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+87,,Mark,Paliwoda,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+88,,Vas,Evtushenko,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+89,,Szymon,Biczak,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+90,,Servee,Derks,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+91,,Andy,Tibbett,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+92,,Stefano,Graziadei,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+93,,Jake,Potter,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+94,,James,O'Neill,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+95,,James,Stockman,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+96,,Matt,Seward,male,Solo,2020-08-29 08:00:00,DNS,,,,,,,,,,,
+97,1,,Frans-Frans,male,Duo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:09,Sun 2:08,Sun 8:56,Sun 18:55,Mon 10:12,Tue 0:49,Tue 8:27,Wed 6:05,Wed 15:12,Thu 1:30
+98,2,,Mulders-Croonen,male,Duo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:52,Sun 12:17,Sun 16:26,Mon 10:53,,Tue 15:19,Tue 19:29,Wed 18:55,Thu 15:21,Fri 12:48
+99,3,,Leitner-Finger,male,Duo,2020-08-29 08:00:00,Finisher,Sat 8:00,Sat 13:20,Sun 7:38,Sun 11:59,Sun 20:49,Mon 14:34,Tue 11:11,Tue 15:50,Wed 13:38,Thu 11:22,Fri 0:00
+100,,,Casier-Vanbillemont,male,Duo,2020-08-29 08:00:00,DNF,Sat 8:00,Sat 15:24,,Mon 10:06,Tue 9:02,,,,,,Wed 11:41
+101,,,Krämer-Reindl,male,Duo,2020-08-29 08:00:00,DNS,,,,,,,,,,,

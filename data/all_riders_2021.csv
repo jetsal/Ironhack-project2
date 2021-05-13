@@ -1,0 +1,68 @@
+,Place,Firstname,Lastname,Gender,Solo or Duo,StartDate,Status,StartTiming,Timing1,Timing2,Timing3,Timing4,Timing5,Timing6,Timing7,Timing8,Timing9,TimingFinish
+0,1,Bas,Vlaskamp,male,Solo,2021,Finisher,Sat 11:00,,13h44m,16h33m,24h01m,30h50m,49h27m,53h30m,68h44m,77h42m,91h49m
+1,2,Sven,Cappuyns,male,Solo,2021,Finisher,Sat 7:45,,14h54m,18h04m,26h49m,33h31m,53h27m,57h26m,76h25m,85h42m,104h28m
+2,3,Richard,Frans,male,Solo,2021,Finisher,Sat 7:15,,17h17m,20h46m,31h24m,46h49m,59h36m,63h45m,85h32m,96h40m,109h57m
+3,4,Paul,Hesen,male,Solo,2021,Finisher,Fri 6:15,05h55m,18h52m,26h31m,35h00m,43h02m,59h16m,62h54m,84h31m,100h00m,112h35m
+4,5,Jason,Schreurs,male,Solo,2021,Finisher,Sat 6:30,05h12m,16h02m,18h51m,32h49m,41h17m,60h07m,65h13m,89h39m,104h46m,117h54m
+5,6,Roeland,van der Hoorn,male,Solo,2021,Finisher,Sat 7:45,05h09m,16h38m,23h17m,33h44m,48h52m,72h10m,78h19m,102h05m,110h23m,123h11m
+6,7,Mark,de Vos,male,Solo,2021,Finisher,Sat 8:00,05h25m,17h30m,22h02m,37h29m,47h27m,62h21m,74h24m,96h50m,107h18m,126h15m
+7,8,Joep,van Luijt,male,Solo,2021,Finisher,Sat 6:45,05h46m,17h54m,20h54m,31h39m,50h19m,63h56m,76h24m,99h50m,108h09m,127h25m
+8,9,Tjerk,Bakker,male,Solo,2021,Finisher,Sat 7:30,05h14m,23h21m,26h45m,36h19m,53h45m,76h51m,82h30m,105h31m,121h56m,132h02m
+9,10,Pier,Nijenhuis,male,Solo,2021,Finisher,Sat 8:00,05h54m,23h21m,27h11m,37h09m,52h48m,77h42m,83h11m,107h27m,122h05m,133h52m
+10,11,Martin,Lukasse,male,Solo,2021,Finisher,Sat 7:00,05h14m,24h20m,28h10m,37h48m,54h25m,77h35m,83h04m,107h54m,124h47m,135h35m
+11,12,Pieter Wilbert,Molemaker,male,Solo,2021,Finisher,Sat 6:00,05h22m,26h06m,29h43m,39h21m,56h48m,77h10m,83h09m,109h55m,124h42m,136h10m
+12,13,Korjun,de Boer,male,Solo,2021,Finisher,Fri 9:45,06h13m,26h10m,30h20m,47h56m,55h35m,77h01m,82h20m,107h26m,125h42m,147h29m
+13,14,Sander,Verdiesen,male,Solo,2021,Finisher,Sat 7:30,05h40m,25h27m,29h08m,48h19m,59h18m,93h32m,98h21m,123h17m,140h54m,153h22m
+14,15,Johan,Kooistra,male,Solo,2021,Finisher,Fri 7:30,,28h59m,33h11m,49h38m,59h17m,83h22m,88h02m,125h55m,143h53m,155h50m
+15,16,Carlo,van Duren,male,Solo,2021,Finisher,Fri 6:00,07h39m,31h54m,35h42m,52h47m,62h48m,85h24m,91h13m,124h47m,137h45m,156h42m
+16,17,Berdine,Bakker,female,Solo,2021,Finisher,Sat 6:15,06h31m,28h48m,32h47m,51h34m,74h50m,103h36m,107h53m,132h20m,149h17m,170h38m
+17,18,Piere,Ramaekers,male,Solo,2021,Finisher,Fri 11:00,,31h31m,45h38m,57h06m,75h13m,102h08m,118h45m,143h51m,163h27m,176h41m
+18,19,Machiel,Appel,male,Solo,2021,Finisher,Fri 8:00,06h50m,30h43m,34h12m,56h17m,76h15m,101h11m,106h28m,144h24m,154h12m,176h48m
+19,20,Jan-Kees,Pennings,male,Solo,2021,Finisher,Sat 7:15,07h08m,30h03m,34h44m,55h10m,77h58m,103h44m,110h13m,135h28m,155h46m,179h01m
+20,21,Lars,Wieringa,male,Solo,2021,Finisher,Fri 7:30,,32h04m,36h33m,57h19m,77h46m,102h21m,117h49m,145h29m,156h05m,179h48m
+21,22,Maarten,Naberink,male,Solo,2021,Finisher,Fri 7:45,,27h31m,31h51m,55h37m,74h53m,112h27m,118h26m,151h00m,169h57m,182h05m
+22,23,Ruurdje,Procee,female,Solo,2021,Finisher,Fri 8:00,07h30m,31h47m,35h36m,56h33m,76h19m,118h52m,123h11m,147h57m,168h33m,182h27m
+23,24,Sjors,Hegger,male,Solo,2021,Finisher,Fri 11:45,06h54m,30h49m,47h00m,57h24m,76h51m,115h44m,120h23m,145h35m,166h26m,192h01m
+24,25,Patrick,Bruns,male,Solo,2021,Finisher,Sat 6:45,07h38m,32h24m,37h14m,57h29m,82h35m,110h00m,124h07m,150h39m,172h45m,195h05m
+25,26,Kemal,Arslan,male,Solo,2021,Finisher,Sat 9:15,07h12m,29h32m,,56h37m,86h02m,127h09m,132h58m,158h24m,179h38m,203h24m
+26,27,Gemma,Adelaar,female,Solo,2021,Finisher,Fri 8:00,07h10m,33h25m,48h52m,71h45m,83h03m,128h47m,144h24m,170h20m,190h56m,203h39m
+27,28,Patrick,Schut,male,Solo,2021,Finisher,Fri 6:45,07h36m,32h51m,37h20m,57h44m,81h10m,126h11m,132h00m,158h34m,193h28m,207h56m
+28,29,Matthijs,Plender,male,Solo,2021,Finisher,Fri 8:30,08h21m,47h14m,52h45m,76h39m,101h14m,129h50m,145h15m,173h35m,194h49m,220h45m
+29,30,Charles,Cox,male,Solo,2021,Finisher,Fri 7:30,09h01m,38h04m,52h45m,77h58m,102h23m,131h28m,151h35m,178h45m,203h11m,229h06m
+30,31,Baptistine,Smets,female,Solo,2021,Finisher,Fri 6:30,09h09m,37h14m,52h32m,81h27m,124h55m,155h11m,160h29m,202h22m,224h38m,253h23m
+31,,Jan-Dick,den Das,male,Solo,2021,DNF,Fri 10:00,06h16m,26h43m,30h21m,50h38m,59h26m,,,,,74h47m
+32,,Guy,Burgerhout,male,Solo,2021,DNF,Sat 6:30,06h03m,26h20m,30h29m,57h34m,,,,,,80h00m
+33,,Wandert,Benthem,male,Solo,2021,DNF,Fri 7:15,,29h24m,33h23m,51h00m,60h09m,101h23m,121h29m,,,127h18m
+34,,Auke (DSQ,Jongbloed,male,Solo,2021,DNF,Sat 9:00,05h43m,27h31m,32h44m,50h27m,74h02m,77h02m,,,,170h41m
+35,,Julio Greff,de Oliveira,male,Solo,2021,DNF,Fri 9:00,06h56m,21h55m,26h18m,51h08m,59h17m,80h03m,97h40m,118h16m,,
+36,,Jonathan,Verkerk,male,Solo,2021,DNF,Fri 10:00,07h06m,50h28m,55h07m,78h41m,125h42m,171h17m,,,,
+37,,Bruce,Martens,male,Solo,2021,DNF,Sat 8:00,05h14m,16h52m,26h31m,35h49m,54h46m,,,,,
+38,,Hans,Meinsma,male,Solo,2021,DNF,Fri 10:00,05h59m,26h25m,30h20m,50h40m,72h18m,,,,,
+39,,Rémy,Pedussel,male,Solo,2021,DNF,Fri 11:45,21h27m,50h53m,55h07m,78h37m,108h02m,,,,,
+40,,Martijn,Verhaeg,male,Solo,2021,DNF,Sat 9:00,05h16m,15h13m,18h09m,26h21m,,,,,,
+41,,Matthieu,Bos,male,Solo,2021,DNF,Fri 11:00,06h25m,26h15m,30h12m,48h50m,,,,,,
+42,,Mark,Paliwoda,male,Solo,2021,DNF,Sat 8:15,06h54m,32h05m,45h52m,55h51m,,,,,,
+43,,Gregory,Van Overloop,male,Solo,2021,DNF,Sat 7:30,05h42m,,29h43m,,,,,,,
+44,,Arjan,Kraaijeveld,male,Solo,2021,DNF,Sat 6:30,,25h44m,30h23m,,,,,,,
+45,,Henri,Arts,male,Solo,2021,DNF,Sat 6:00,05h46m,27h42m,31h43m,,,,,,,
+46,,Rob,Kenens,male,Solo,2021,DNF,Sat 9:15,06h49m,29h06m,33h14m,,,,,,,
+47,,Deovrat,Phal,male,Solo,2021,DNF,Fri 6:30,08h00m,34h44m,39h33m,,,,,,,
+48,,Marc,Wismans,male,Solo,2021,DNF,Fri 11:15,07h21m,47h43m,52h12m,,,,,,,
+49,,Erik,Wallinga,male,Solo,2021,DNF,Sat 7:00,06h14m,28h41m,,,,,,,,
+50,,Jeroen,van der Wiel,male,Solo,2021,DNF,Sat 7:00,07h03m,28h49m,,,,,,,,
+51,,Edwin,Nederlof,male,Solo,2021,DNF,Fri 8:30,06h17m,32h55m,,,,,,,,
+52,,Marius,Bettentrup,male,Solo,2021,DNF,Sat 9:30,09h14m,49h17m,,,,,,,,
+53,,Hans,Kroodsma,male,Solo,2021,DNF,Sat 7:15,06h09m,,,,,,,,,
+54,,Niek,Smeets,male,Solo,2021,DNF,Sat 9:00,06h20m,,,,,,,,,
+55,,Marlow,Drevel,male,Solo,2021,DNF,Fri 8:45,07h22m,,,,,,,,,
+56,,Ivo,Lafeber,male,Solo,2021,DNF,Sat 7:45,07h34m,,,,,,,,,
+57,,John,van Duren,male,Solo,2021,DNF,Fri 6:00,08h29m,,,,,,,,,
+58,,Hugo,Wasser,male,Solo,2021,DNF,Fri 8:30,,,,,,,,,,
+59,,Lucie,Mensinga,female,Solo,2021,DNS,,,,,,,,,,,
+60,,Pim,Heijnen,male,Solo,2021,DNS,,,,,,,,,,,
+61,1,,Willems (DNF - Timmermans,male,Duo,2021,Finisher,Fri 9:15,07h05m,29h45m,33h33m,54h09m,72h18m,122h19m,127h38m,154h50m,173h50m,194h47m
+62,2,,van Rijswijk - van den Broek,mixed,Duo,2021,Finisher,Fri 8:15,07h15m,32h01m,35h40m,56h27m,77h03m,121h25m,128h12m,173h24m,195h40m,223h15m
+63,,,Cullen - Driedonks,male,Duo,2021,DNF,Sat 6:15,06h25m,18h44m,22h02m,36h31m,,,,,,57h27m
+64,,,Harder - Joosten,male,Duo,2021,DNF,Fri 8:15,07h02m,27h38m,31h48m,51h44m,61h42m,,,,,
+65,,,Bisschops - Wiegel,mixed,Duo,2021,DNF,Fri 6:30,07h23m,29h09m,33h30m,51h55m,62h43m,,,,,
+66,,,Verweij - Hoskam,mixed,Duo,2021,DNF,Fri 8:15,06h12m,28h23m,31h23m,50h59m,,,,,,
