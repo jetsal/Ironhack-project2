@@ -57,3 +57,6 @@ Rotterdam	Goirle			8	Vlissingen
 Goirle		Vijlenerbos		9	Ell
 Vijlenerbos	Amerongen		10 	Arcen
 
+If there is time, I could incorporate ages:
+page with ages of 2020 riders (not (yet) checked what the robots.text says about scraping):
+https://dotwatcher.cc/feature/bikes-of-race-around-the-netherlands-2020 
