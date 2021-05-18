@@ -15,6 +15,10 @@ The cleaning is done in these files (input csv's ===> Jupyter file where cleanin
 all_riders_2021_cleaned.csv and all_riders_2018-2020_cleaned.csv are ready to be concatenated.
 
 
+### weather
+Wind direction is still missing, but temp, rain_mm, rain_hours and wind speed are scraped and cleaned in:
+- Weather_excl_wind_dir.ipynb ====> weather_excl_wind_dir.csv
+
 ### ages: scraping and cleaning
 For 2021 the ages are webscraped in this Jupyter file and results in the after the '====>' mentioned csv::
 - RATN - ages_2021.ipynb ====> riders2021_name_age.csv
